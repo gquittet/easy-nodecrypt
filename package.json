@@ -1,0 +1,47 @@
+{
+  "name": "easy-nodecrypt",
+  "version": "0.1.0",
+  "description": "A simple nodejs library that makes life easier when you want to encrypt and decrypt string to multiple encodings.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "clean": "rimraf lib",
+    "build": "tsc",
+    "lint": "tslint -c tslint.json 'src/**/*.ts'",
+    "prepublishOnly": "npm run clean && npm run lint && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "easy",
+    "simple",
+    "simply",
+    "encrypt",
+    "decrypt",
+    "nodejs",
+    "node",
+    "typescript"
+  ],
+  "author": "Guillaume Quittet <guillaume.quittet@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/gquittet/nodecrypt#readme",
+  "bugs": {
+    "url": "https://github.com/gquittet/nodecrypt/issues",
+    "email": "guillaume.quittet@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gquittet/nodecrypt.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.4",
+    "tslint": "^5.17.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "rimraf": "^2.6.3"
+  }
+}
