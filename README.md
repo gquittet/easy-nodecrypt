@@ -1,6 +1,6 @@
 # NodeCrypt
 
-A simple nodejs library that encrypt and decrypt string to base64 string.
+A simple nodejs library that makes life easier when you want to encrypt and decrypt string to multiple encodings.
 
 This library was written in pure NodeJS with TypeScript.
 

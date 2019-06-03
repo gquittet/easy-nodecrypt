@@ -23,14 +23,14 @@
   ],
   "author": "Guillaume Quittet <guillaume.quittet@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/gquittet/nodecrypt#readme",
+  "homepage": "https://github.com/gquittet/easy-nodecrypt#readme",
   "bugs": {
-    "url": "https://github.com/gquittet/nodecrypt/issues",
+    "url": "https://github.com/gquittet/easy-nodecrypt/issues",
     "email": "guillaume.quittet@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gquittet/nodecrypt.git"
+    "url": "git@github.com:gquittet/easy-nodecrypt.git"
   },
   "engines": {
     "node": ">=8"
