@@ -1,6 +1,6 @@
 {
   "name": "easy-nodecrypt",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A simple nodejs library that makes life easier when you want to encrypt and decrypt string to multiple encodings.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
