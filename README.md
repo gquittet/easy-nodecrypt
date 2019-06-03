@@ -87,4 +87,4 @@ Guillaume Quittet
 
 ## Give me a coffee ☕
 
-[paypal.me/gquittet](paypal.me/gquittet)
+[https://paypal.me/gquittet](https://paypal.me/gquittet)
