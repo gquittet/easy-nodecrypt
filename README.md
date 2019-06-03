@@ -82,3 +82,9 @@ You can give the above values by environements variables:
 ## Author
 
 Guillaume Quittet
+
+[https://www.linkedin.com/in/gquittet/](https://www.linkedin.com/in/gquittet/)
+
+## Give me a coffee ☕
+
+[paypal.me/gquittet](paypal.me/gquittet)
