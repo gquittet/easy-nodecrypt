@@ -75,7 +75,7 @@ This library was written in pure NodeJS with TypeScript.
 You can give the above values by environements variables:
 
 | Environement variable | Code variable | Class |
-|:----:|:----:|:----:|
+|:----|:----:|----:|
 |NODECRYPT_SECRET|secret| NodeCrypt, NodeCryptIV |
 |NODECRYPT_IV|iv| NodeCryptIV |
 
